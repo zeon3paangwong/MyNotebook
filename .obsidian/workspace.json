@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/OpenCv.md",
+                "file": "Study/C++内存分布.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpenCv"
+              "title": "C++内存分布"
             }
           }
         ]
@@ -190,13 +190,13 @@
   },
   "active": "8391c7ca6415e25d",
   "lastOpenFiles": [
+    "Study/OpenCv.md",
+    "Study/C++内存分布.md",
     "hello.md",
     "新建 DOCX 文档.docx",
     "未命名.base",
-    "Study/OpenCv.md",
     "Study/Qt.md",
     "project/云存储项目架构.md",
-    "Study/C++.md",
     "project",
     "欢迎.md",
     "Study"
