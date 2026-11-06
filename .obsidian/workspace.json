@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7f88952f68de1838",
+        "id": "42301c052efaf8b9",
         "type": "tabs",
         "children": [
           {
-            "id": "cca952dccc7251a3",
+            "id": "e7701061cc881676",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qt/Qt元对象系统.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Qt元对象系统"
+              "title": "新标签页"
             }
           }
         ]
@@ -188,15 +184,24 @@
       "bases:新建数据库": false
     }
   },
-  "active": "cca952dccc7251a3",
+  "active": "8391c7ca6415e25d",
   "lastOpenFiles": [
     "C++/C++内存分布.md",
+    "Qt/Json解析.md",
+    "Qt/Qt元对象系统.md",
+    "Qt/Qt网络编程(network).md",
+    "Qt/Qt串口编程.md",
+    "Qt/事件.md",
+    "Qt/信号槽.md",
     "C++/OpenCv.md",
+    "C++/构造函数和拷贝赋值函数.md",
     "project/云存储项目架构.md",
     "Qt/Qt多线程.md",
-    "Qt/Qt元对象系统.md",
-    "Qt",
     "hello.md",
+    "网络/TCP通信的特点.md",
+    "网络",
+    "2026-11-05.md",
+    "Qt",
     "新建 DOCX 文档.docx",
     "未命名.base",
     "project",
