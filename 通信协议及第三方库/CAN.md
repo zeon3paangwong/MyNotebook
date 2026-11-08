@@ -1,0 +1,1 @@
+每个汽车之间用的元器件叫做ECU，CAN总线负责对每个ECU之间的通信，每个ECU内部包含MCU(单片机)+CAN收发器，CAN收发器接两根线，一根CAN High,一根CAN Low,当CAN High高于CAN Low，称之为显性，逻辑0，CAN High等于CAN Low,称之为隐性，逻辑1。
