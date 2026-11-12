@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "42301c052efaf8b9",
+        "id": "4a88961b471fe5b9",
         "type": "tabs",
         "children": [
           {
-            "id": "e7701061cc881676",
+            "id": "365d42643ee37446",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "通信协议及第三方库/Modbus.md",
+                "file": "C++/Cmake和Qmake.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modbus"
+              "title": "Cmake和Qmake"
             }
           }
         ]
@@ -189,9 +189,23 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e7701061cc881676",
+  "active": "365d42643ee37446",
   "lastOpenFiles": [
-    "通信协议及第三方库/CAN.md",
+    "file:D:/Omen/studyspace/第四期：  第三方库和通讯协议以及工程配置/技术学习验收/02-ADS窗口布局学习验收.md",
+    "file:D:/Omen/studyspace/第四期：  第三方库和通讯协议以及工程配置/技术学习验收/03-Halcon学习验收.md",
+    "C++/Cmake和Qmake.md",
+    "file:D:/Omen/studyspace/Qt-Advanced-Docking-System-master/README.md",
+    "file:D:/Omen/studyspace/第四期：  第三方库和通讯协议以及工程配置/技术学习验收/01-QCustomPlot学习验收.md",
+    "file:D:/Omen/studyspace/第四期：  第三方库和通讯协议以及工程配置/技术学习验收/14-Wireshark学习验收.md",
+    "file:D:/Omen/studyspace/第四期：  第三方库和通讯协议以及工程配置/技术学习验收/08-MQTT学习验收.md",
+    "file:D:/Omen/studyspace/第四期：  第三方库和通讯协议以及工程配置/技术学习验收/12-CAN协议学习验收.md",
+    "file:D:/Omen/studyspace/C++Player/一阶段➕验收/1.QT基本知识大纲与面试题-文档形式/QT基础-可用vscode上快捷键(ctrl+shift+v)/第1章 Qt基础认知.md",
+    "file:D:/Omen/studyspace/C++Player/一阶段➕验收/1.QT基本知识大纲与面试题-文档形式/Qt问题合集/QML.md",
+    "file:D:/Omen/studyspace/第三阶段-QT重要属性与qml/QML学习验收.md",
+    "C++/C++内存分布.md",
+    "Qt/Json解析.md",
+    "Qt/Qt元对象系统.md",
+    "Qt/Qt网络编程(network).md",
     "Qt/Qt串口编程.md",
     "通信协议及第三方库/Modbus.md",
     "通信协议及第三方库/OpenCv.md",
